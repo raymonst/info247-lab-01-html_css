@@ -1,4 +1,4 @@
-#INFO 247: HTML/CSS
+#INFO 247 Lab 01: HTML/CSS
 
 ##Instructions
 
