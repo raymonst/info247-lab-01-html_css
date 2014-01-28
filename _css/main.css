@@ -1,0 +1,98 @@
+/* ---------------------------------------------------------------------------------------------------- */
+/* RESET CSS */
+
+/* 0. resetting css is highly recommended; this overrides some default browser styles and allows you to start from a "blank slate" */
+
+
+
+/* ---------------------------------------------------------------------------------------------------- */
+/* GENERAL STYLES */
+
+/* 1. define the text font, size, and color that will apply to the whole page  
+/* 2. set the page background to a color (ex. #eee for light gray) or to a background image */
+
+body {
+}
+
+h1 {
+}
+
+h2 {
+}
+
+p {
+}
+
+/* 3. specify the default text color for links (ex. #1fa1fa for a light blue) */
+a {
+}
+
+a:hover {
+}
+
+
+
+/* ---------------------------------------------------------------------------------------------------- */
+/* STRUCTURE */
+
+/* 4. set the width of the "wrapper" div to 1000px and make it centered in the middle of the page  */
+#wrapper {
+}
+
+/* 5. set the background color of the header to another color (ex. #222 for dark gray) */
+/*    if you chose a dark color for the background, set the text color to a lighter color (ex. #fff for white) */
+#header {
+}
+
+#content {
+}
+
+/* 6. the content in these divs is flush against the edge, which makes the page crowded. add some extra space */
+#sidebar, #main {    
+}
+
+/* 7. the sidebar should be on the side. make it appear to the left of the #main div */
+/*    if you are not sure how to proceed, see: http://css-tricks.com/all-about-floats/ */
+#sidebar {    
+}
+
+#main {
+}
+
+
+
+/* ---------------------------------------------------------------------------------------------------- */
+/* NAVIGATION */
+
+#nav ul {
+}
+
+/* 8. make the #nav items display horizontally, not vertically */
+#nav li {
+}
+
+/* 9. define how the links in the nav should look. in our example, we changed the text color to white. */
+#nav li a {
+}
+
+/* 10. give the link for the current page a slightly different style to distinguish it */
+/*     you could add/remove underline, change the color... ? */
+#nav li a:hover,
+#nav li a.selected {    
+}
+
+
+
+/* ---------------------------------------------------------------------------------------------------- */
+/* CONTENT */
+
+/* 11. make the images display in a grid */
+/*     see http://stackoverflow.com/questions/2562737/what-ways-can-i-put-images-in-a-grid-like-format if you get stuck */
+/* 12. add a 1px border to the .image-wrapper divs */
+
+.image-wrapper {    
+}
+
+/* 13. make all caption text italic */
+.caption {
+}
